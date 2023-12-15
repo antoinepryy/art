@@ -1,4 +1,3 @@
-import * as THREE from 'three';
 let waveSpeed = 6.5; // Speed of the wave effect
 let waveAmplitude = 0.007; // Amplitude of the wave effect
 
