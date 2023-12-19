@@ -2,7 +2,7 @@
   "name": "graphic-art",
   "version": "1.0.0",
   "description": "Welcome to the repository for my art portfolio. This site showcases my work in animation and 3D modeling using Three.js.",
-  "main": "main.js",
+  "main": "app/main.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
